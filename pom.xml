@@ -25,12 +25,12 @@
     </scm>
     <distributionManagement>
         <repository>
-            <id>deployment</id>
+            <id>nexus</id>
             <name>Internal Releases</name>
             <url> http://18.206.251.138:8081/nexus/content/repositories/releases/</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
+            <id>nexus</id>
             <name>Internal Snapshot Releases</name>
             <url>http://18.206.251.138:8081/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
