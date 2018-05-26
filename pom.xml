@@ -23,12 +23,6 @@
         <developerConnection>scm:git:https://github.com/srilakshmichennu/simplejavaproject.git</developerConnection>
         <tag>v1.5</tag>
     </scm>
-    <developers>
-        <developer>
-            <name>Arun Gupta</name>
-            <email>arun.gupta@gmail.com</email>
-        </developer>
-    </developers>
     <distributionManagement>
         <repository>
             <id>deployment</id>
